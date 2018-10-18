@@ -386,8 +386,9 @@ def move(exits, direction):
 
 # This is the entry point of our program
 def main():
-    print()
+    print('                            #############                      ')
     print("                            WIN CONDITION                      ")
+    print('                            #############                      ')
     print("You have to collect and then drop all items in MJ and Simon's room")
     print()
     # Main game loop
