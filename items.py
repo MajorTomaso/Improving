@@ -15,7 +15,7 @@ item_laptop = {
 
     "name": "laptop",
 
-    "mass": 2.4,
+    "mass": 1.8,
 
     "description":
     "It has seen better days. At least it has a WiFi card!"
@@ -26,7 +26,7 @@ item_money = {
 
     "name": "money",
 
-    "mass": 1.3,
+    "mass": 0.2,
 
     "description":
     "This wad of cash is barely enough to pay your tuition fees."
